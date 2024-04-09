@@ -1,0 +1,9 @@
+Title,prob_min,prob_most,prob_max,lb_loss,ub_loss
+Phishing attacks,1744,78113,203810,2055,109647
+"Virus, spyware of malware (excluding ransomware) infections",3100,37652,94329,5048,28348
+Denial of service attacks,14229,53419,121587,12477,189381
+Hacking of online bank accounts,1778,14201,38296,1774,74015
+Take over of organisational user accounts,1498,33959,172518,1318,145117
+Ransomware,2243,6909,20957,3154,14950
+Unauthorised accessing of files or networks by outsiders,2084,19630,234157,2003,154021
+Unauthorised accessing of files or networks by insiders (staff),669,4009,30774,429,199164
